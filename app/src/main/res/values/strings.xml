@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string name="submit_text">Submit</string>
+    <string name="next_message_text">Next Message</string>
+    <string-array name="messages">
+        <item>I</item>
+        <item>will</item>
+        <item>uphold</item>
+        <item>academic</item>
+        <item>and</item>
+        <item>personal</item>
+        <item>integrity</item>
+        <item>in</item>
+        <item>the</item>
+        <item>TJ</item>
+        <item>community</item>
+    </string-array>
+</resources>
